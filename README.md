@@ -1,6 +1,6 @@
-# myapp
+# App Layout
 
-A new Flutter project.
+Sistema desenvolvido como atividade associada ao módulo 2 do curso de Desenvolvivemento WEB.
 
 ## Getting Started
 
